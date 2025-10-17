@@ -6,6 +6,6 @@ Collection of Godot scripts I made for people who want to learn GDScript
 
 **2D**
 
-### Contributors
+## Contributors
 
 1. **Zach**
